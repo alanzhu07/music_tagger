@@ -14,8 +14,8 @@ import matplotlib.pyplot as plt
 from training import model
 # import model
 
-# SAMPLE_RATE = 16000
-SAMPLE_RATE = 44100
+SAMPLE_RATE = 16000
+# SAMPLE_RATE = 44100
 DATASET = "mtat"
 MODEL_NAMES = {
     "Self-attention": "attention",
